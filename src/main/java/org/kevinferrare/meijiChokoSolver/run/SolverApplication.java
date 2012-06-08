@@ -36,8 +36,9 @@ public class SolverApplication {
 
 	public static void main(String[] args) throws Exception {
 		Options options = new Options();
-		options.addOption(null, "puzzle", true, "Name of the puzzle to be solved (white, milk, black), 'milk' if not specified");
-		options.addOption(null, "output_type", true, "Choose the output type (batch or gui), gui if not specified");
+		options.addOption(null, "help", false, "Print help");
+		options.addOption(null, "puzzle", true, "Name of the puzzle to start with, choose one from (" + PuzzleId. getValidNames() + "), 'milk' if not specified");
+		options.addOption(null, "output_type", true, "the way the solutions are output, the default is 'gui' but there is also a command line mode ('batch')");
 		CommandLineParser parser = new PosixParser();
 		CommandLine commandLine = parser.parse(options, args);
 		if (commandLine.hasOption("help")) {
