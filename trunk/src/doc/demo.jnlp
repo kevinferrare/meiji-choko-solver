@@ -6,7 +6,7 @@
 	</information>
 	<resources>
 		<j2se version="1.5+" href="http://java.sun.com/products/autodl/j2se" />
-		<jar href="http://meiji-choko-solver.googlecode.com/svn/trunk/meiji-choko-solver/src/doc/demo.jar" main="true" />	
+		<jar href="https://meiji-choko-solver.googlecode.com/svn/trunk/src/doc/demo.jar"ain="true" />
 	</resources>
 	<application-desc name="Meiji Choko Solver">
 	</application-desc>
