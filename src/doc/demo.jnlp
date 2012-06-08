@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="" href="">
+<jnlp spec="1.0+" codebase="https://meiji-choko-solver.googlecode.com" href="">
 	<information>
 		<title>Meiji Choko Solver</title>
 		<vendor>org.kevinferrare</vendor>
 	</information>
 	<resources>
 		<j2se version="1.5+" href="http://java.sun.com/products/autodl/j2se" />
-		<jar href="https://meiji-choko-solver.googlecode.com/svn/trunk/src/doc/demo.jar"ain="true" />
+		<jar href="/svn/trunk/src/doc/demo.jar"ain="true" />
 	</resources>
 	<application-desc name="Meiji Choko Solver">
 	</application-desc>
