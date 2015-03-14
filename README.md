@@ -5,7 +5,7 @@ Use the Launch button below to run the program using java web start. You need to
 
 [![JNLP](https://raw.githubusercontent.com/kevinferrare/meiji-choko-solver/master/src/doc/webstart.png)](https://raw.githubusercontent.com/kevinferrare/meiji-choko-solver/master/src/doc/demo.jnlp)
 
-Alternatively, you can [download the program](https://meiji-choko-solver.googlecode.com/files/MeijiChokoSolver-1.0-jar-with-dependencies.jar) and launch it.
+Alternatively, you can [download the program](https://github.com/kevinferrare/meiji-choko-solver/releases/download/1.0/MeijiChokoSolver-1.0.jar) and launch it.
 
 To quote wikipedia : "A polyomino is a plane geometric figure formed by joining one or more equal squares edge to edge."
 
