@@ -1,6 +1,8 @@
 # Introduction
 This is a Java / Swing program that can solve the "[chocolate puzzles](http://www.strapya-world.com/products/22376.html Meiji)" and other [Polyominos](http://en.wikipedia.org/wiki/Polyomino) (tetris-like shape) based puzzles.
 
+![Actual puzzle](https://raw.githubusercontent.com/kevinferrare/meiji-choko-solver/master/src/doc/milk_puzzle.jpg)
+
 Use the Launch button below to run the program using java web start. You need to have java properly installed and [configured](http://mindprod.com/jgloss/installingjws.html) for the program to work.
 
 [![JNLP](https://raw.githubusercontent.com/kevinferrare/meiji-choko-solver/master/src/doc/webstart.png)](https://raw.githubusercontent.com/kevinferrare/meiji-choko-solver/master/src/doc/demo.jnlp)
