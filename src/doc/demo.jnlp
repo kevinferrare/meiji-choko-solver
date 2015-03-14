@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="https://meiji-choko-solver.googlecode.com" href="">
+<jnlp spec="1.0+" codebase="https://github.com/kevinferrare/meiji-choko-solver/" href="">
 	<information>
 		<title>Meiji Choko Solver</title>
 		<vendor>org.kevinferrare</vendor>
